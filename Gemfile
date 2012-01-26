@@ -71,10 +71,10 @@ end
 
 # Rails3 plugins that we use and their source repositories:
 #---------------------------------------------------------------------
-# gravatar_image_tag,      git://github.com/mdeering/gravatar_image_tag.git
-# calendar_date_select,    git://github.com/timcharper/calendar_date_select.git
-# country_select,          git://github.com/rails/country_select.git
-# dynamic_form,            git://github.com/rails/dynamic_form.git
-# is_paranoid,             git://github.com/theshortcut/is_paranoid.git
-# prototype_legacy_helper, git://github.com/rails/prototype_legacy_helper.git
-# responds_to_parent,      git://github.com/markcatley/responds_to_parent.git
+#gem gravatar_image_tag,      git://github.com/mdeering/gravatar_image_tag.git
+#gem calendar_date_select,    git://github.com/timcharper/calendar_date_select.git
+#gem country_select,          git://github.com/rails/country_select.git
+#gem dynamic_form,            git://github.com/rails/dynamic_form.git
+#gem is_paranoid,             git://github.com/theshortcut/is_paranoid.git
+#gem prototype_legacy_helper, git://github.com/rails/prototype_legacy_helper.git
+#gem responds_to_parent,      git://github.com/markcatley/responds_to_parent.git
